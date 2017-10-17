@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="275e5d2b0f9103000adf4d9ce1050e0d" sys_domain="global" table="x_158766_database_databases" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>database_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-25 09:23:22</sys_created_on>
+            <sys_id>6b5e196b0f9103000adf4d9ce1050ed4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_158766_database_databases" sys_domain="global" view="Default view">275e5d2b0f9103000adf4d9ce1050e0d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-25 09:23:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>environment</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-25 09:23:22</sys_created_on>
+            <sys_id>eb5e196b0f9103000adf4d9ce1050ed4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_158766_database_databases" sys_domain="global" view="Default view">275e5d2b0f9103000adf4d9ce1050e0d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-25 09:23:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>instance_name</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-25 09:23:22</sys_created_on>
+            <sys_id>6f5e196b0f9103000adf4d9ce1050ed4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_158766_database_databases" sys_domain="global" view="Default view">275e5d2b0f9103000adf4d9ce1050e0d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-25 09:23:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>server_name</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-25 09:23:22</sys_created_on>
+            <sys_id>ef5e196b0f9103000adf4d9ce1050ed4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_158766_database_databases" sys_domain="global" view="Default view">275e5d2b0f9103000adf4d9ce1050e0d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-25 09:23:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-25 09:23:22</sys_created_on>
+            <sys_id>635e196b0f9103000adf4d9ce1050ed5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_158766_database_databases" sys_domain="global" view="Default view">275e5d2b0f9103000adf4d9ce1050e0d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-25 09:23:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>for_selection</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-16 05:50:31</sys_created_on>
+            <sys_id>ba0734160f3103000adf4d9ce1050e23</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_158766_database_databases" sys_domain="global" view="Default view">275e5d2b0f9103000adf4d9ce1050e0d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-16 05:50:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>db_owned_by</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-16 07:08:14</sys_created_on>
+            <sys_id>fcd84d1e0f3103000adf4d9ce1050e0c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_158766_database_databases" sys_domain="global" view="Default view">275e5d2b0f9103000adf4d9ce1050e0d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-16 07:08:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>owner_email_address</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-16 07:08:14</sys_created_on>
+            <sys_id>89d8c99e0f3103000adf4d9ce1050e71</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_158766_database_databases" sys_domain="global" view="Default view">275e5d2b0f9103000adf4d9ce1050e0d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-16 07:08:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>usage_effective_date</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-16 07:15:01</sys_created_on>
+            <sys_id>606a85de0f3103000adf4d9ce1050e49</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_158766_database_databases" sys_domain="global" view="Default view">275e5d2b0f9103000adf4d9ce1050e0d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-16 07:15:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>usage_expiry_date</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-16 07:15:02</sys_created_on>
+            <sys_id>286a85de0f3103000adf4d9ce1050e50</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_158766_database_databases" sys_domain="global" view="Default view">275e5d2b0f9103000adf4d9ce1050e0d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-16 07:15:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>owning_manager</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-16 07:22:42</sys_created_on>
+            <sys_id>b82c81120f7103000adf4d9ce1050ed6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_158766_database_databases" sys_domain="global" view="Default view">275e5d2b0f9103000adf4d9ce1050e0d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-16 07:22:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>owner_manager</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-16 07:24:52</sys_created_on>
+            <sys_id>bcac85120f7103000adf4d9ce1050ee6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_158766_database_databases" sys_domain="global" view="Default view">275e5d2b0f9103000adf4d9ce1050e0d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-16 07:24:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>db_owner_manager</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-16 09:23:57</sys_created_on>
+            <sys_id>8de7655e0f7103000adf4d9ce1050e79</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_158766_database_databases" sys_domain="global" view="Default view">275e5d2b0f9103000adf4d9ce1050e0d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-16 09:23:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>for_deletion</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 05:40:32</sys_created_on>
+            <sys_id>c25eb9220f3103000adf4d9ce1050e8a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_158766_database_databases" sys_domain="global" view="Default view">275e5d2b0f9103000adf4d9ce1050e0d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 05:40:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>delete_db</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 06:07:49</sys_created_on>
+            <sys_id>f194c6a60f3103000adf4d9ce1050e9c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_158766_database_databases" sys_domain="global" view="Default view">275e5d2b0f9103000adf4d9ce1050e0d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 06:07:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_158766_database_databases</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-25 09:23:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>275e5d2b0f9103000adf4d9ce1050e0d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_158766_database_databases</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Database Inventory" source="x_158766_database">512b45230f9103000adf4d9ce1050e61</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Database Inventory">512b45230f9103000adf4d9ce1050e61</sys_scope>
+            <sys_update_name>sys_ui_section_275e5d2b0f9103000adf4d9ce1050e0d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-25 09:23:22</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

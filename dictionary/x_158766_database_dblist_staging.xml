@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="DBLIST_STAGING" max_length="40" name="x_158766_database_dblist_staging" type="collection">
+        <element attributes="import_attribute_name=database_name,edge_encryption_enabled=true" label="database_name" max_length="40" name="u_database_name" type="string"/>
+        <element attributes="import_attribute_name=db_owned_by,edge_encryption_enabled=true" label="db_owned_by" max_length="40" name="u_db_owned_by" type="string"/>
+        <element attributes="import_attribute_name=db_status,edge_encryption_enabled=true" label="db_status" max_length="40" name="u_db_status" type="string"/>
+        <element attributes="import_attribute_name=environment,edge_encryption_enabled=true" label="environment" max_length="40" name="u_environment" type="string"/>
+        <element attributes="import_attribute_name=host_name,edge_encryption_enabled=true" label="host_name" max_length="40" name="u_host_name" type="string"/>
+        <element attributes="import_attribute_name=instance_name,edge_encryption_enabled=true" label="instance_name" max_length="40" name="u_instance_name" type="string"/>
+        <element attributes="import_attribute_name=ip_address,edge_encryption_enabled=true" label="ip_address" max_length="40" name="u_ip_address" type="string"/>
+        <element attributes="import_attribute_name=os,edge_encryption_enabled=true" label="os" max_length="40" name="u_os" type="string"/>
+        <element attributes="import_attribute_name=port_no,edge_encryption_enabled=true" label="port_no" max_length="40" name="u_port_no" type="string"/>
+        <element attributes="import_attribute_name=rdbms,edge_encryption_enabled=true" label="rdbms" max_length="40" name="u_rdbms" type="string"/>
+        <element attributes="import_attribute_name=server_name,edge_encryption_enabled=true" label="server_name" max_length="40" name="u_server_name" type="string"/>
+        <element attributes="import_attribute_name=server_owned_by,edge_encryption_enabled=true" label="server_owned_by" max_length="40" name="u_server_owned_by" type="string"/>
+        <element attributes="import_attribute_name=server_status,edge_encryption_enabled=true" label="server_status" max_length="40" name="u_server_status" type="string"/>
+    </element>
+</database>

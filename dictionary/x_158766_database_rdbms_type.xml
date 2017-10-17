@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="RDBMS Type" max_length="40" name="x_158766_database_rdbms_type" type="collection">
+        <element display="true" label="RDBMS" max_length="20" name="rdbms" type="string"/>
+    </element>
+</database>

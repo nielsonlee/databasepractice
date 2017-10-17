@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Profile Update Request" max_length="40" name="x_158766_database_profile_update_request" type="collection"/>
+</database>

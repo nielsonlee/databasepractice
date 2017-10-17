@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Profile Update Request</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Profile Update Request</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">be798f46e00332003399186128118fcb</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-12 05:00:04</sys_created_on>
+        <sys_id>6425404d0f3103000adf4d9ce1050e31</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Profile Update Request</sys_name>
+        <sys_package display_value="Database Inventory" source="x_158766_database">512b45230f9103000adf4d9ce1050e61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Database Inventory">512b45230f9103000adf4d9ce1050e61</sys_scope>
+        <sys_update_name>sys_wizard_answer_6425404d0f3103000adf4d9ce1050e31</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-12 05:00:04</sys_updated_on>
+        <table/>
+        <target_url>x_158766_database_profile_update_request.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

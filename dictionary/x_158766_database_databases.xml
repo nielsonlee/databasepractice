@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Databases" max_length="40" name="x_158766_database_databases" type="collection">
+        <element label="Database Name" max_length="100" name="database_name" type="string"/>
+        <element label="DB Owned By" max_length="100" name="db_owned_by" type="string"/>
+        <element label="DB Owner Manager" max_length="100" name="db_owner_manager" type="string"/>
+        <element label="Delete DB" max_length="3" name="delete_db" type="string"/>
+        <element label="Environment" max_length="40" name="environment" reference="x_158766_database_environment_reference" type="reference"/>
+        <element display="true" label="For Selection" max_length="100" name="for_selection" type="string"/>
+        <element label="Instance Name" max_length="100" name="instance_name" type="string"/>
+        <element label="Server Name" max_length="100" name="server_name" type="string"/>
+        <element label="DB Status" max_length="40" name="status" reference="x_158766_database_status" type="reference"/>
+        <element label="Usage Effective Date" max_length="40" name="usage_effective_date" type="glide_date"/>
+        <element label="Usage Expiry Date" max_length="40" name="usage_expiry_date" type="glide_date"/>
+        <index name="index">
+            <element name="server_name"/>
+            <element name="instance_name"/>
+            <element name="database_name"/>
+        </index>
+    </element>
+</database>

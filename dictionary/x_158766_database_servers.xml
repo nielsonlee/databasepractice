@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Servers" max_length="40" name="x_158766_database_servers" type="collection">
+        <element label="Delete Server" max_length="3" name="delete_server" type="string"/>
+        <element label="Environment" max_length="40" name="environment" reference="x_158766_database_environment_reference" type="reference"/>
+        <element label="Host Name" max_length="100" name="host_name" type="string"/>
+        <element label="Instance Name" max_length="100" name="instance_name" type="string"/>
+        <element label="IP Address" max_length="40" name="ip_address" type="ip_addr"/>
+        <element label="OS" max_length="40" name="os" type="string"/>
+        <element label="Server Owned By" max_length="100" name="owned_by" type="string"/>
+        <element label="Owner Email Address" max_length="100" name="owner_email_address" type="string"/>
+        <element label="Port No" max_length="40" name="port_no" type="integer"/>
+        <element label="RDBMS" max_length="40" name="rdbms" reference="x_158766_database_rdbms_type" type="reference"/>
+        <element display="true" label="Server Name" max_length="100" name="server_name" type="string"/>
+        <element label="Server Status" max_length="32" name="status" reference="x_158766_database_status" type="reference"/>
+        <index name="index">
+            <element name="server_name"/>
+            <element name="instance_name"/>
+        </index>
+        <index name="index2">
+            <element name="status"/>
+        </index>
+    </element>
+</database>

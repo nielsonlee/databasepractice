@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Environment" max_length="40" name="x_158766_database_environment_reference" type="collection">
+        <element choice="3" default="UAT" display="true" label="Environment" mandatory="true" max_length="20" name="environment" type="string">
+            <choice>
+                <element label="UAT" sequence="0" value="UAT"/>
+                <element label="SIT" sequence="1" value="SIT"/>
+                <element label="DEV" sequence="2" value="DEV"/>
+                <element label="PROD" sequence="3" value="PROD"/>
+            </choice>
+        </element>
+    </element>
+</database>

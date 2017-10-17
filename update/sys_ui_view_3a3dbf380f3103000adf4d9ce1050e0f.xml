@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_database_profile_tracking</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-12 04:25:32</sys_created_on>
+        <sys_id>3a3dbf380f3103000adf4d9ce1050e0f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Database Profile Tracking View</sys_name>
+        <sys_package display_value="Database Inventory" source="x_158766_database">512b45230f9103000adf4d9ce1050e61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Database Inventory">512b45230f9103000adf4d9ce1050e61</sys_scope>
+        <sys_update_name>sys_ui_view_3a3dbf380f3103000adf4d9ce1050e0f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-12 04:25:32</sys_updated_on>
+        <title>Database Profile Tracking View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
