@@ -29,19 +29,22 @@
         <rest_variables/>
         <role_conditions/>
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
-if (current.instance_name == null || current.instance_name.trim().isEmpty()) {
-	current.for_selection = current.server_name + '\\' + current.database_name;}
-	else {
-	current.for_selection = current.server_name + '\\' + current.instance_name + '\\' +
+	
+	if (current.instance_name) {
+		current.for_selection = current.server_name + '\\' + current.instance_name + '\\' +
 		current.database_name;}
-})(current, previous);]]></script>
+		else {
+			current.for_selection = current.server_name + '\\' + current.database_name;
+		}
+		
+	})(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-10-16 06:05:04</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>7d1a74d60f3103000adf4d9ce1050e1c</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>13</sys_mod_count>
         <sys_name>Populate For Selection Field</sys_name>
         <sys_overrides/>
         <sys_package display_value="Database Inventory" source="x_158766_database">512b45230f9103000adf4d9ce1050e61</sys_package>
@@ -49,7 +52,7 @@ if (current.instance_name == null || current.instance_name.trim().isEmpty()) {
         <sys_scope display_value="Database Inventory">512b45230f9103000adf4d9ce1050e61</sys_scope>
         <sys_update_name>sys_script_7d1a74d60f3103000adf4d9ce1050e1c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-10-16 13:16:00</sys_updated_on>
+        <sys_updated_on>2017-10-17 09:11:34</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
